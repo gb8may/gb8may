@@ -20,3 +20,12 @@ A little about me:
 
 ### 🛠 Tools:
 - ![AWS](https://img.shields.io/badge/-AWS-FCC624?&logo=amazon%20aws&logoColor=FFFFFF) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-007ACC?&logo=kubernetes&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/-Ansible-181717?&logo=ansible&logoColor=FFFFFF) ![Terraform](https://img.shields.io/badge/-Terraform-blueviolet?&logo=terraform&logoColor=FFFFF) ![Docker](https://img.shields.io/badge/-Docker-20BEFF?&logo=docker&logoColor=FFFFFF) ![Datadog](https://img.shields.io/badge/-Datadog-blueviolet?&logo=Datadog&logoColor=FFFFFF) ![Jenkins](https://img.shields.io/badge/-Jenkins-F05032?&logo=Jenkins&logoColor=FFFFFF) ![Network](https://img.shields.io/badge/-Network-brightgreen?&logo=Network&logoColor=FFFFFF) ![Zabbix](https://img.shields.io/badge/-Zabbix-F05032?&logo=zabbix&logoColor=FFFFFF) ![Grafana](https://img.shields.io/badge/-Grafana-FB7A24?&logo=grafana&logoColor=FFFFFF)  ![Puppet](https://img.shields.io/badge/-Puppet-FCC624?&logo=puppet&logoColor=FFFFFF) ![Rancher](https://img.shields.io/badge/-Rancher-20BEFF?&logo=rancher&logoColor=FFFFFF)  
+
+### 📈 Stats 
+ 
+[![Mayara github stats](https://github-readme-stats.vercel.app/api?username=gb8may&theme=cobalt&show_icons=true)](https://github.com/gb8may/github-readme-stats)
+
+### 💡  Languages 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8may&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+
+<hr>
