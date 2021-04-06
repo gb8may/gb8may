@@ -32,4 +32,4 @@ A little about me:
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/gb8may/)
- [![Instagram](https://img.shields.io/badge/-Telegram-26A5E4?&logo=telegram&logoColor=FFFFFF)](https://web.telegram.org/#/im?p=@gb8may)
+ [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?&logo=telegram&logoColor=FFFFFF)](https://web.telegram.org/#/im?p=@gb8may)
