@@ -10,9 +10,10 @@
 
 A little about me:
 
-- 🔭  I’m currently working on **AWS** and **Kubernetes**.
+- 🇨🇦  Toronto, **Canada**.
+- 🔭  I’m currently working with **AWS** and **Kubernetes**.
 - 🌱  I’m currently learning everything related to **DevOps** and **automation**.
-- 📫  How to reach me: Click **[here!](https://www.linkedin.com/in/gb8may/)**
+- 📚  Self-taught
 - ⚡  Fun fact: Home automation is one of my hobbies.
 
 ### ⚡ Skills:
