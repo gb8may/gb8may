@@ -22,6 +22,9 @@ A little about me:
 ### 🛠 Tools:
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon%20aws&logoColor=FFFFFF) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&logo=ansible&logoColor=FFFFFF) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?&logo=terraform&logoColor=FFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF) ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?&logo=Datadog&logoColor=FFFFFF) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=FFFFFF) ![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?&logo=travis&logoColor=FFFFFF) ![Network](https://img.shields.io/badge/-Network-brightgreen?&logo=Network&logoColor=FFFFFF) ![Zabbix](https://img.shields.io/badge/-Zabbix-F05032?&logo=zabbix&logoColor=FFFFFF) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?&logo=grafana&logoColor=FFFFFF)  ![Puppet](https://img.shields.io/badge/-Puppet-FFAE1A?&logo=puppet&logoColor=FFFFFF) ![Rancher](https://img.shields.io/badge/-Rancher-0075A8?&logo=rancher&logoColor=FFFFFF) ![NGINX](https://img.shields.io/badge/-NGINX-009639?&logo=nginx&logoColor=FFFFFF)
 
+### Certifications:
+- ![AWS](https://img.shields.io/badge/-AWS%20CSA-232F3E?&logo=amazon%20aws&logoColor=FFFFFF)
+
 ### 📈 Stats 
  
 [![Mayara github stats](https://github-readme-stats.vercel.app/api?username=gb8may&theme=cobalt&show_icons=true)](https://github.com/gb8may/github-readme-stats)
