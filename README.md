@@ -28,7 +28,6 @@ A little about me:
 
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8may&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8may)](https://github.com/gb8may/github-readme-stats)
 
 <hr>
 
